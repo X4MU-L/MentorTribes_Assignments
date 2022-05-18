@@ -9,17 +9,17 @@
 - [README.md](#README.md)
 
 ### Assignment1
--   [Questions](../Assignment1/Assignment1.png)
--   [index.js](../Assignment1/index.js)
+-   [Questions](./Assignment1/Assignment1.png)
+-   [index.js](./Assignment1/index.js)
 
 ### Assignment2
--   [Questions](../Assignment2/Assignment2.png)
--   [index.js](../Assignment2/index.js)
+-   [Questions](./Assignment2/Assignment2.png)
+-   [index.js](./Assignment2/index.js)
 
 ### Assignment3
--   [Questions](../Assignment3/Assignment3.png)
--   [class.js](../Assignment3/class.js)
--   [prind_data.js](../Assignment3/print_data.js)
+-   [Questions](./Assignment3/Assignment3.png)
+-   [class.js](./Assignment3/class.js)
+-   [prind_data.js](./Assignment3/print_data.js)
 
 ### Package.json
 
