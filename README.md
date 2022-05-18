@@ -29,6 +29,6 @@ This file was added in other to allow me use modules in **Assignment3**
 
 My name is **Samuel**
 -   Email - [Email](mailto:okolisamuel21@gmail.com)
--   Twitter - [@iamwizzbrown]((https://www.twitter.com/iamwizzbrown))
+-   Twitter - [@iamwizzbrown](https://www.twitter.com/iamwizzbrown)
 
 ### README.md
